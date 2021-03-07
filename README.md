@@ -1,12 +1,11 @@
-# Best IMDB Top Movie Resources 2600+
+# 1. Best IMDB Top Movie Resources 2600+
 ## Dynamic, Scalable, Secure apps with world class features for Any User Interface
 Visit Link and login (username: shahed, pass: demo1234) </br>
 https://apex.oracle.com/pls/apex/shahed_dev/r/movies75/login?session=15013389431625  <br/>
 <img align="center" alt="IMDB Movies" width="600px" src="https://i.ibb.co/PZ8HKQ4/Annotation-2021-03-07-115301.jpg" />
-<hr style="color:blue; font-size:1px">
-</n>
+<br/>
 
-# Sending Email through Oracle APEX
+# 2. Sending Email through Oracle APEX
 <ul>
   <li>User can login and signed out by given credential</li>
   <li>User can send their request details and they will get instant email into their give email address</li>
