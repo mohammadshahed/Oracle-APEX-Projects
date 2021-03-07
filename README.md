@@ -9,8 +9,8 @@ https://apex.oracle.com/pls/apex/shahed_dev/r/movies75/login?session=15013389431
 <ul>
   <li>User can login and signed out by given credential</li>
   <li>User can send their request details and they will get instant email into their give email address</li>
+  <li>When User click the send button they will see instant 'Successfully Sent Message' Notification</li>
   <li>User can also see their Email Reports by clicking 'Email Log' Navigation menu</li>
-  <li>Ask me about ... what i have learned</li>
 </ul>
 Visit Link and login (username: shahed, pass: demo1234) </br>
 https://apex.oracle.com/pls/apex/shahed_dev/r/email13/login?session=66252684471745  <br/>
