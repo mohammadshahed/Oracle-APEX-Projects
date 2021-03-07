@@ -15,4 +15,4 @@ https://apex.oracle.com/pls/apex/shahed_dev/r/movies75/login?session=15013389431
 </ul>
 Visit Link and login (username: shahed, pass: demo1234) </br>
 https://apex.oracle.com/pls/apex/shahed_dev/r/email13/login?session=66252684471745  <br/>
-<img align="left" alt="Sending Email" width="600px" src="https://i.ibb.co/WVn8kXG/Annotation-2021-03-07-121345.jpg" />
+<img align="center" alt="Sending Email" width="600px" src="https://i.ibb.co/WVn8kXG/Annotation-2021-03-07-121345.jpg" />
